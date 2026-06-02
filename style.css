@@ -111,7 +111,7 @@ h2, h3 {
 
 .content-grid {
     display: grid;
-    grid-template-columns: minmax(0, 580px) 220px;
+    grid-template-columns: minmax(0, 640px) 220px;
     gap: 90px;
     align-items: start;
 }
